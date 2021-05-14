@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2021 Hexo博客搭建</title>
+    <url>/2021/05/14/2021-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<h1 id="0-摘要"><a href="#0-摘要" class="headerlink" title="0. 摘要"></a>0. 摘要</h1><p>2021年如何使用Github + Hexo + Next搭建博客？<br>网上现有的相关教程由于版本更替的原因，会遇到很多无法预知的错误。本文主要站在2021年5月的时间点，介绍搭建博客。</p>
+<span id="more"></span>
+<h2 id="github"><a href="#github" class="headerlink" title="github"></a>github</h2><p>默认已有github账户及完成本地关联。 创建<strong>账户同名</strong>项目，如：</p>
+<h2 id="下载NodeJS"><a href="#下载NodeJS" class="headerlink" title="下载NodeJS"></a>下载NodeJS</h2><h1 id="2-安装Hexo"><a href="#2-安装Hexo" class="headerlink" title="2. 安装Hexo"></a>2. 安装Hexo</h1><h1 id="3-使用Next主题并美化"><a href="#3-使用Next主题并美化" class="headerlink" title="3. 使用Next主题并美化"></a>3. 使用Next主题并美化</h1>]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>demo</title>
     <url>/2021/05/13/demo/</url>
     <content><![CDATA[<p>gogogogo</p>
