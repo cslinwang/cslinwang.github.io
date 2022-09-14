@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title></title>
-    <url>/2022/09/14/%E6%A1%8C%E9%9D%A2/Nvidia%20Jetson%20Nano%20%E9%83%A8%E7%BD%B2%20zlm/</url>
+    <url>/2022/09/14/Nvidia%20Jetson%20Nano%20%E9%83%A8%E7%BD%B2%20zlm/</url>
     <content><![CDATA[<h1 id="Nvidia-Jetson-Nano-部署-zlm"><a href="#Nvidia-Jetson-Nano-部署-zlm" class="headerlink" title="Nvidia Jetson Nano 部署 zlm"></a>Nvidia Jetson Nano 部署 zlm</h1><ol start="0">
 <li>参考</li>
 </ol>
@@ -20,11 +20,6 @@
 <figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">git clone <span class="operator">--</span>depth <span class="number">1</span> https:<span class="comment">//gitee.com/xia-chu/ZLMediaKit</span></span><br><span class="line">cd <span class="type">ZLMediaKit</span><span class="operator">/</span></span><br><span class="line">git submodule update <span class="operator">--</span><span class="keyword">init</span></span><br></pre></td></tr></table></figure>
 
 ]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2022/09/14/%E6%A1%8C%E9%9D%A2/1/</url>
-    <content><![CDATA[{"project":{"pid":"__VIA_PROJECT_ID__","rev":"__VIA_PROJECT_REV_ID__","rev_timestamp":"__VIA_PROJECT_REV_TIMESTAMP__","pname":"Unnamed Project","creator":"","created":1662807336643,"vid_list":["1","2","3"]},"config":{"file":{"loc_prefix":{"1":"","2":"","3":"","4":""}},"ui":{"file_content_align":"center","file_metadata_editor_visible":true,"spatial_metadata_editor_visible":true,"temporal_segment_metadata_editor_visible":true,"spatial_region_label_attribute_id":"","gtimeline_visible_row_count":"4"}},"attribute":{},"file":{"1":{"fid":"1","fname":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/1.png","type":2,"loc":2,"src":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/1.png"},"2":{"fid":"2","fname":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/2.png","type":2,"loc":2,"src":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/2.png"},"3":{"fid":"3","fname":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/3.png","type":2,"loc":2,"src":"http://localhost/dm/minio/getFileStream?fileName=mineai-data-manager/target/classes/static/1/3.png"}},"metadata":{"1_oUNKSDLO":{"vid":"1","flg":0,"z":[],"xy":[2,95.336,32.2,188.147,152.158],"av":{}}},"view":{"1":{"fid_list":["1"]},"2":{"fid_list":["2"]},"3":{"fid_list":["3"]}}}]]></content>
   </entry>
   <entry>
     <title>test</title>
