@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2022/09/14/test/</url>
-    <content><![CDATA[<span id="more"></span>
-<h1 id="测试文档内容"><a href="#测试文档内容" class="headerlink" title="测试文档内容"></a>测试文档内容</h1><p>测试文档结果</p>
-<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><pre><code>git init
-git commit
-</code></pre>
-]]></content>
-  </entry>
-  <entry>
     <title>NVIDIA Jetson Nano 部署 ZLMediaKit</title>
     <url>/2021/05/14/NVIDIA%20Jetson%20Nano%20%E9%83%A8%E7%BD%B2%20ZLMediaKit/</url>
     <content><![CDATA[<p>主要介绍如何在NVIDIA Jetson Nano 部署 ZLMediaKit。</p>
 <span id="more"></span>
 
-<h1 id="NVIDIA-Jetson-Nano-部署-ZLMediaKit"><a href="#NVIDIA-Jetson-Nano-部署-ZLMediaKit" class="headerlink" title="NVIDIA Jetson Nano 部署 ZLMediaKit"></a>NVIDIA Jetson Nano 部署 ZLMediaKit</h1><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://gitee.com/xia-chu/ZLMediaKit">gitee.com</a></p>
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="https://gitee.com/xia-chu/ZLMediaKit">gitee.com</a></p>
 <p><a href="https://github.com/ZLMediaKit/ZLMediaKit/wiki/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B">github.com</a></p>
 <h1 id="本机环境"><a href="#本机环境" class="headerlink" title="本机环境"></a>本机环境</h1><p><img src="https://res.craft.do/user/full/7000ef9f-cc11-00bc-0790-dd58dd9cbf19/doc/1c852e54-7d06-4de9-860a-7b44463babf9/855dd04d-b878-41c7-b2a0-231855e8734e" alt="image.png"></p>
 <h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><h2 id="下载项目"><a href="#下载项目" class="headerlink" title="下载项目"></a>下载项目</h2><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">git clone <span class="operator">--</span>depth <span class="number">1</span> https:<span class="comment">//gitee.com/xia-chu/ZLMediaKit</span></span><br><span class="line">cd <span class="type">ZLMediaKit</span><span class="operator">/</span></span><br><span class="line">git submodule update <span class="operator">--</span><span class="keyword">init</span></span><br></pre></td></tr></table></figure>
